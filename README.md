@@ -1,5 +1,4 @@
-#Leetcode Steak
-##
+# Leetcode Steak
 
 Welcome to my leetcode fun! 
 
