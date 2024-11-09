@@ -1,8 +1,3 @@
-# Leetcode problem
-## List of problems
-### palindrome number
+Welcome to my leetcode fun! 
 
-See the Leetcode problem description: 
-https://leetcode.com/problems/palindrome-number
-
-Code: [palindrome](palindrome_number.py)
+I practice leetcode on daily base. I posted my solution here and commented on how I solved the problems. :) 
